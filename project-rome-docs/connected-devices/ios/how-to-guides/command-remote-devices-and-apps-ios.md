@@ -1,5 +1,5 @@
 ---
-title: Command remote devices and apps (iOS)
+title: Connecting remote iOS apps and devices
 description: This guide will show how to discover remote devices and apps and then launch apps or interact with app services.
 ms.date: 07/17/2018
 ms.topic: article
@@ -8,11 +8,9 @@ ms.assetid: b5d426db-a0ca-4888-b2cb-cb7fdb1c6c0d
 ms.localizationpriority: medium
 ---
 
-# Command remote devices and apps (iOS)
+# Connecting remote iOS apps and devices
 
-Here you will find guidance on how to implement commanding scenarios in your iOS apps.  
-
-See the [API reference](../api-reference/index.md) page for links to the reference docs relevant to these scenarios. This guide is intended to provide the necessary steps to onboard with the Connected Devices Platform, the underlying platform of the Project Rome features.  See the [iOS sample app](https://github.com/Microsoft/project-rome/tree/master/iOS/samples) for a working example of these features.  
+This guide is intended to provide the necessary steps to onboard with the Connected Devices Platform, the underlying platform of the Project Rome features.  See the [iOS sample app](https://github.com/Microsoft/project-rome/tree/master/iOS/samples) for a working example of these features.  
 
 [!INCLUDE [ios/preliminary-setup](../../../includes/ios/preliminary-setup.md)]
 

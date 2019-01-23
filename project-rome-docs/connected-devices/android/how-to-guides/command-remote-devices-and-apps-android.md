@@ -1,5 +1,5 @@
 ---
-title: Command remote devices and apps (Android)
+title: How to implement device relay on Android devices
 description: This guide will show how to discover remote devices and apps and then launch apps or interact with app services.
 ms.author: pafarley
 author: PatrickFarley
@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Command remote devices and apps (Android)
 
-Here you will find guidance on how to implement commanding scenarios in your Android apps. [!INCLUDE [android/dev-reqs](../../../includes/android/dev-reqs.md)]
+Here you will find guidance on how to implement device relay scenarios in your Android apps. [!INCLUDE [android/dev-reqs](../../../includes/android/dev-reqs.md)]
 
 See the [API reference](../api-reference/index.md) page for links to the reference docs relevant to these scenarios. This guide is intended to provide the necessary steps to onboard with the Connected Devices Platform, the underlying platform of the Project Rome features.  See the [Android sample app](https://github.com/Microsoft/project-rome/tree/master/Android/samples) for a working example of Project Rome features.
 

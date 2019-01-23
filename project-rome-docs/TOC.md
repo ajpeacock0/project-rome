@@ -1,6 +1,6 @@
 # [Project Rome docs](index.md)
 
-## [Device Relay](devicerelay/index.md)
+## [Connected Devices](devicerelay/index.md)
 ### [How to guide for Windows](https://docs.microsoft.com/windows/uwp/launch-resume/connected-apps-and-devices)
 ### [API reference for Windows](https://docs.microsoft.com/uwp/api/Windows.System.RemoteSystems)
 ### [How to guide for Android](devicerelay/android/how-to-guides/command-remote-devices-and-apps-android.md)
